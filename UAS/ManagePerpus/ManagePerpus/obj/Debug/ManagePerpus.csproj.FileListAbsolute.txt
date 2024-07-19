@@ -1,0 +1,7 @@
+C:\Users\abiyy\OneDrive\Documents\pemrograman\UAS\ManagePerpus\ManagePerpus\bin\Debug\ManagePerpus.exe.config
+C:\Users\abiyy\OneDrive\Documents\pemrograman\UAS\ManagePerpus\ManagePerpus\bin\Debug\ManagePerpus.exe
+C:\Users\abiyy\OneDrive\Documents\pemrograman\UAS\ManagePerpus\ManagePerpus\bin\Debug\ManagePerpus.pdb
+C:\Users\abiyy\OneDrive\Documents\pemrograman\UAS\ManagePerpus\ManagePerpus\obj\Debug\ManagePerpus.csproj.AssemblyReference.cache
+C:\Users\abiyy\OneDrive\Documents\pemrograman\UAS\ManagePerpus\ManagePerpus\obj\Debug\ManagePerpus.csproj.CoreCompileInputs.cache
+C:\Users\abiyy\OneDrive\Documents\pemrograman\UAS\ManagePerpus\ManagePerpus\obj\Debug\ManagePerpus.exe
+C:\Users\abiyy\OneDrive\Documents\pemrograman\UAS\ManagePerpus\ManagePerpus\obj\Debug\ManagePerpus.pdb
